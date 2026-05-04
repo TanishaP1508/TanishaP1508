@@ -1,16 +1,49 @@
-## Hi there 👋
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:F5F1E8,100:D8C3A5&height=220&section=header&text=Tanisha%20Patel&fontSize=40&fontColor=3A3A3A)
 
-<!--
-**TanishaP1508/TanishaP1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🤍 Hello World, it's Tanisha
 
-Here are some ideas to get you started:
+💻 Aspiring Data Analyst 
+🎓 Data Science Student | Career in progress  
+☕ Clean code. Calm mindset. Consistent growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌿 About Me
+I enjoy building simple projects and improving my coding skills 
+
+Currently focused on:
+- Python
+- C++ fundamentals
+- Problem solving
+- Algebra
+- Calculus
+- Probability ans Stats
+
+---
+
+## 🧸 Tech Stack
+-  C++
+-  Git & GitHub
+-  Python
+-  SQL
+-  RStudio
+
+---
+
+## 🌼 Projects
+- 📌 C++ Basics Project
+- 📌 More coming soon
+
+---
+
+## 📈 Goals (2026)
+- Build strong coding foundations
+- Create 5–10 portfolio projects
+- Become fluent in Python
+- Become fluent in C++
+- Actively seeking internships
+
+---
+
+## 🤍 Contact
+- Email: pateltanisha991@gmail.com
