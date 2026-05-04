@@ -2,14 +2,14 @@
 
 # 👩🏽‍💻 Hello World, it's Tanisha
 
-💻 Aspiring Data Analyst 
-🎓 Data Science Student | Career in progress  
+💻 Career in progress
+🎓 Data Science Student   
 ☕ Clean code. Calm mindset. Consistent growth.
 
 ---
 
 ## 🌿 About Me
-I enjoy building simple projects and improving my coding skills 
+I build simple projects and improve my coding skills 
 
 Currently focused on:
 - Python
@@ -17,7 +17,7 @@ Currently focused on:
 - Problem solving
 - Algebra
 - Calculus
-- Probability ans Stats
+- Probability and Stats
 
 ---
 
@@ -31,7 +31,8 @@ Currently focused on:
 ---
 
 ## 🌼 Projects
-- 📌 C++ Basics Project
+- 📌 C++ Projects
+- 📌 Python Projects
 - 📌 More coming soon
 
 ---
