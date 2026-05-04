@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:F5F1E8,100:D8C3A5&height=220&section=header&text=Tanisha%20Patel&fontSize=40&fontColor=3A3A3A)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:F5F1E8,100:D8C3A5&height=260&section=header&text=Tanisha%20Patel&fontSize=44&fontColor=3A3A3A&animation=fadeIn&fontAlignY=38)
 
 # 🤍 Hello World, it's Tanisha
 
