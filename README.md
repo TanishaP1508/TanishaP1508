@@ -2,9 +2,9 @@
 
 # 👩🏽‍💻 Hello World, it's Tanisha
 
-💻 Career in progress
+
 🎓 Data Science Student   
-☕ Clean code. Calm mindset. Consistent growth.
+☕ Consistent growth.
 
 ---
 
@@ -25,6 +25,9 @@ Currently focused on:
 -  C++
 -  Git & GitHub
 -  Python
+-  JavaScript
+-  CSS
+-  HTML
 -  SQL
 -  RStudio
 
