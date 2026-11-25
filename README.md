@@ -4,7 +4,6 @@
 
 
 🎓 Data Science Student   
-☕ Consistent growth.
 
 ---
 
@@ -42,7 +41,7 @@ Currently focused on:
 
 ## 📈 Goals (2026)
 - Build strong coding foundations
-- Create 5–10 portfolio projects
+- Create 3-5 portfolio projects
 - Become fluent in Python
 - Become fluent in C++
 - Actively seeking internships
